@@ -1,0 +1,67 @@
+games.gpgs-plugin-support-0.10.14\AndroidManifest.xml:10:9-18:20
+468            android:name="com.google.games.bridge.GenericResolutionActivity"
+468-->[:com.google.games.gpgs-plugin-support-0.10.14:] C:\Users\User\.gradle\caches\transforms-2\files-2.1\f5a09e35ae8f2fcaddde9b418d8ead7c\jetified-com.google.games.gpgs-plugin-support-0.10.14\AndroidManifest.xml:11:13-77
+469            android:exported="false"
+469-->[:com.google.games.gpgs-plugin-support-0.10.14:] C:\Users\User\.gradle\caches\transforms-2\files-2.1\f5a09e35ae8f2fcaddde9b418d8ead7c\jetified-com.google.games.gpgs-plugin-support-0.10.14\AndroidManifest.xml:12:13-37
+470            android:label="GenericResolutionActivity"
+470-->[:com.google.games.gpgs-plugin-support-0.10.14:] C:\Users\User\.gradle\caches\transforms-2\files-2.1\f5a09e35ae8f2fcaddde9b418d8ead7c\jetified-com.google.games.gpgs-plugin-support-0.10.14\AndroidManifest.xml:13:13-54
+471            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" >
+471-->[:com.google.games.gpgs-plugin-support-0.10.14:] C:\Users\User\.gradle\caches\transforms-2\files-2.1\f5a09e35ae8f2fcaddde9b418d8ead7c\jetified-com.google.games.gpgs-plugin-support-0.10.14\AndroidManifest.xml:14:13-83
+472            <meta-data
+472-->[:com.google.games.gpgs-plugin-support-0.10.14:] C:\Users\User\.gradle\caches\transforms-2\files-2.1\f5a09e35ae8f2fcaddde9b418d8ead7c\jetified-com.google.games.gpgs-plugin-support-0.10.14\AndroidManifest.xml:15:13-17:40
+473                android:name="instantapps.clients.allowed"
+473-->[:com.google.games.gpgs-plugin-support-0.10.14:] C:\Users\User\.gradle\caches\transforms-2\files-2.1\f5a09e35ae8f2fcaddde9b418d8ead7c\jetified-com.google.games.gpgs-plugin-support-0.10.14\AndroidManifest.xml:16:17-59
+474                android:value="true" />
+474-->[:com.google.games.gpgs-plugin-support-0.10.14:] C:\Users\User\.gradle\caches\transforms-2\files-2.1\f5a09e35ae8f2fcaddde9b418d8ead7c\jetified-com.google.games.gpgs-plugin-support-0.10.14\AndroidManifest.xml:17:17-37
+475        </activity>
+476
+477        <provider
+477-->[:com.ironsource.sdk.mediationsdk-7.2.1.1:] C:\Users\User\.gradle\caches\transforms-2\files-2.1\6a119b6139614852545906dff94181fe\jetified-com.ironsource.sdk.mediationsdk-7.2.1.1\AndroidManifest.xml:10:5-156
+478            android:name="com.ironsource.lifecycle.IronsourceLifecycleProvider"
+478-->[:com.ironsource.sdk.mediationsdk-7.2.1.1:] C:\Users\User\.gradle\caches\transforms-2\files-2.1\6a119b6139614852545906dff94181fe\jetified-com.ironsource.sdk.mediationsdk-7.2.1.1\AndroidManifest.xml:10:15-82
+479            android:authorities="com.PlayResume.Sling.IronsourceLifecycleProvider" />
+479-->[:com.ironsource.sdk.mediationsdk-7.2.1.1:] C:\Users\User\.gradle\caches\transforms-2\files-2.1\6a119b6139614852545906dff94181fe\jetified-com.ironsource.sdk.mediationsdk-7.2.1.1\AndroidManifest.xml:10:83-153
+480
+481        <activity
+481-->[:com.unity3d.ads.unity-ads-4.2.1:] C:\Users\User\.gradle\caches\transforms-2\files-2.1\14c1979b36cb658c66dcb63f8174cb64\jetified-com.unity3d.ads.unity-ads-4.2.1\AndroidManifest.xml:14:9-18:74
+482            android:name="com.unity3d.services.ads.adunit.AdUnitActivity"
+482-->[:com.unity3d.ads.unity-ads-4.2.1:] C:\Users\User\.gradle\caches\transforms-2\files-2.1\14c1979b36cb658c66dcb63f8174cb64\jetified-com.unity3d.ads.unity-ads-4.2.1\AndroidManifest.xml:15:13-74
+483            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
+483-->[:com.unity3d.ads.unity-ads-4.2.1:] C:\Users\User\.gradle\caches\transforms-2\files-2.1\14c1979b36cb658c66dcb63f8174cb64\jetified-com.unity3d.ads.unity-ads-4.2.1\AndroidManifest.xml:16:13-170
+484            android:hardwareAccelerated="true"
+484-->[:com.unity3d.ads.unity-ads-4.2.1:] C:\Users\User\.gradle\caches\transforms-2\files-2.1\14c1979b36cb658c66dcb63f8174cb64\jetified-com.unity3d.ads.unity-ads-4.2.1\AndroidManifest.xml:17:13-47
+485            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+485-->[:com.unity3d.ads.unity-ads-4.2.1:] C:\Users\User\.gradle\caches\transforms-2\files-2.1\14c1979b36cb658c66dcb63f8174cb64\jetified-com.unity3d.ads.unity-ads-4.2.1\AndroidManifest.xml:18:13-71
+486        <activity
+486-->[:com.unity3d.ads.unity-ads-4.2.1:] C:\Users\User\.gradle\caches\transforms-2\files-2.1\14c1979b36cb658c66dcb63f8174cb64\jetified-com.unity3d.ads.unity-ads-4.2.1\AndroidManifest.xml:19:9-23:86
+487            android:name="com.unity3d.services.ads.adunit.AdUnitTransparentActivity"
+487-->[:com.unity3d.ads.unity-ads-4.2.1:] C:\Users\User\.gradle\caches\transforms-2\files-2.1\14c1979b36cb658c66dcb63f8174cb64\jetified-com.unity3d.ads.unity-ads-4.2.1\AndroidManifest.xml:20:13-85
+488            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
+488-->[:com.unity3d.ads.unity-ads-4.2.1:] C:\Users\User\.gradle\caches\transforms-2\files-2.1\14c1979b36cb658c66dcb63f8174cb64\jetified-com.unity3d.ads.unity-ads-4.2.1\AndroidManifest.xml:21:13-170
+489            android:hardwareAccelerated="true"
+489-->[:com.unity3d.ads.unity-ads-4.2.1:] C:\Users\User\.gradle\caches\transforms-2\files-2.1\14c1979b36cb658c66dcb63f8174cb64\jetified-com.unity3d.ads.unity-ads-4.2.1\AndroidManifest.xml:22:13-47
+490            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+490-->[:com.unity3d.ads.unity-ads-4.2.1:] C:\Users\User\.gradle\caches\transforms-2\files-2.1\14c1979b36cb658c66dcb63f8174cb64\jetified-com.unity3d.ads.unity-ads-4.2.1\AndroidManifest.xml:23:13-83
+491        <activity
+491-->[:com.unity3d.ads.unity-ads-4.2.1:] C:\Users\User\.gradle\caches\transforms-2\files-2.1\14c1979b36cb658c66dcb63f8174cb64\jetified-com.unity3d.ads.unity-ads-4.2.1\AndroidManifest.xml:24:9-28:86
+492            android:name="com.unity3d.services.ads.adunit.AdUnitTransparentSoftwareActivity"
+492-->[:com.unity3d.ads.unity-ads-4.2.1:] C:\Users\User\.gradle\caches\transforms-2\files-2.1\14c1979b36cb658c66dcb63f8174cb64\jetified-com.unity3d.ads.unity-ads-4.2.1\AndroidManifest.xml:25:13-93
+493            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
+493-->[:com.unity3d.ads.unity-ads-4.2.1:] C:\Users\User\.gradle\caches\transforms-2\files-2.1\14c1979b36cb658c66dcb63f8174cb64\jetified-com.unity3d.ads.unity-ads-4.2.1\AndroidManifest.xml:26:13-170
+494            android:hardwareAccelerated="false"
+494-->[:com.unity3d.ads.unity-ads-4.2.1:] C:\Users\User\.gradle\caches\transforms-2\files-2.1\14c1979b36cb658c66dcb63f8174cb64\jetified-com.unity3d.ads.unity-ads-4.2.1\AndroidManifest.xml:27:13-48
+495            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+495-->[:com.unity3d.ads.unity-ads-4.2.1:] C:\Users\User\.gradle\caches\transforms-2\files-2.1\14c1979b36cb658c66dcb63f8174cb64\jetified-com.unity3d.ads.unity-ads-4.2.1\AndroidManifest.xml:28:13-83
+496        <activity
+496-->[:com.unity3d.ads.unity-ads-4.2.1:] C:\Users\User\.gradle\caches\transforms-2\files-2.1\14c1979b36cb658c66dcb63f8174cb64\jetified-com.unity3d.ads.unity-ads-4.2.1\AndroidManifest.xml:29:9-33:74
+497            android:name="com.unity3d.services.ads.adunit.AdUnitSoftwareActivity"
+497-->[:com.unity3d.ads.unity-ads-4.2.1:] C:\Users\User\.gradle\caches\transforms-2\files-2.1\14c1979b36cb658c66dcb63f8174cb64\jetified-com.unity3d.ads.unity-ads-4.2.1\AndroidManifest.xml:30:13-82
+498            android:configChanges="fontScale|keyboard|keyboardHidden|locale|mnc|mcc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode|touchscreen"
+498-->[:com.unity3d.ads.unity-ads-4.2.1:] C:\Users\User\.gradle\caches\transforms-2\files-2.1\14c1979b36cb658c66dcb63f8174cb64\jetified-com.unity3d.ads.unity-ads-4.2.1\AndroidManifest.xml:31:13-170
+499            android:hardwareAccelerated="false"
+499-->[:com.unity3d.ads.unity-ads-4.2.1:] C:\Users\User\.gradle\caches\transforms-2\files-2.1\14c1979b36cb658c66dcb63f8174cb64\jetified-com.unity3d.ads.unity-ads-4.2.1\AndroidManifest.xml:32:13-48
+500            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+500-->[:com.unity3d.ads.unity-ads-4.2.1:] C:\Users\User\.gradle\caches\transforms-2\files-2.1\14c1979b36cb658c66dcb63f8174cb64\jetified-com.unity3d.ads.unity-ads-4.2.1\AndroidManifest.xml:33:13-71
+501        <activity
+501-->[:lunar-console:] C:\Users\User\.gradle\caches\transforms-2\files-2.1\dd96a5b0508adc68d18fe6120fa257b9\jetified-lunar-console\AndroidManifest.xml:12:9-16:58
+502            android:name="spacemadness.c

@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "applicationId": "com.applovin.mediation.unity.adapters.google",
+  "variantType": "LIBRARY",
+  "elements": [
+    {
+      "outputType": {
+        "type": "AAPT_FRIENDLY_MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": -1,
+        "outputFile": "MaxMediationGoogle.androidlib-release.aar",
+        "fullName": "release",
+        "baseName": "release",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "com.applovin.mediation.unity.adapters.google",
+        "split": ""
+      }
+    }
+  ]
+}

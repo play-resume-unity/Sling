@@ -1,0 +1,146 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.unity3d.player"
+5    android:versionCode="4"
+6    android:versionName="0.4" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="22"
+9-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="32" />
+10-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
+11
+12    <uses-feature android:glEsVersion="0x00030000" />
+12-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:3-52
+12-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:17-49
+13    <uses-feature
+13-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:3-91
+14        android:name="android.hardware.vulkan.version"
+14-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:17-63
+15        android:required="false" />
+15-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:64-88
+16
+17    <uses-permission android:name="android.permission.INTERNET" />
+17-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:3-65
+17-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:20-62
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:3-77
+18-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:25:20-74
+19
+20    <uses-feature
+20-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:3-88
+21        android:name="android.hardware.touchscreen"
+21-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:17-60
+22        android:required="false" />
+22-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:61-85
+23    <uses-feature
+23-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:3-99
+24        android:name="android.hardware.touchscreen.multitouch"
+24-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:17-71
+25        android:required="false" />
+25-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:72-96
+26    <uses-feature
+26-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:3-108
+27        android:name="android.hardware.touchscreen.multitouch.distinct"
+27-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:17-80
+28        android:required="false" />
+28-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:81-105
+29
+30    <application
+30-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-21:17
+31        android:extractNativeLibs="true"
+31-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:49-81
+32        android:icon="@mipmap/app_icon"
+32-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:82-113
+33        android:label="@string/app_name" >
+33-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:16-48
+34
+35        <!--
+36         The MessagingUnityPlayerActivity is a class that extends
+37         UnityPlayerActivity to work around a known issue when receiving
+38         notification data payloads in the background.
+39        -->
+40        <activity
+40-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:5-14:16
+41            android:name="com.google.firebase.MessagingUnityPlayerActivity"
+41-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:15-78
+42            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+42-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:148-329
+43            android:exported="true"
+43-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:401-424
+44            android:hardwareAccelerated="false"
+44-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:365-400
+45            android:launchMode="singleTask"
+45-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:116-147
+46            android:resizeableActivity="false"
+46-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:330-364
+47            android:screenOrientation="portrait" >
+47-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:79-115
+48            <intent-filter>
+48-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:7-11:23
+49                <action android:name="android.intent.action.MAIN" />
+49-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:9-61
+49-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:17-58
+50
+51                <category android:name="android.intent.category.LAUNCHER" />
+51-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:9-69
+51-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:19-66
+52            </intent-filter>
+53
+54            <meta-data
+54-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:7-82
+55                android:name="unityplayer.UnityActivity"
+55-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:18-58
+56                android:value="true" />
+56-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:59-79
+57            <meta-data
+57-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:7-78
+58                android:name="android.notch_support"
+58-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:18-54
+59                android:value="true" />
+59-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:55-75
+60        </activity>
+61
+62        <service
+62-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:5-176
+63            android:name="com.google.firebase.messaging.MessageForwardingService"
+63-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:14-83
+64            android:exported="false"
+64-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:141-165
+65            android:permission="android.permission.BIND_JOB_SERVICE" />
+65-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:84-140
+66
+67        <meta-data
+67-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:5-69
+68            android:name="unity.splash-mode"
+68-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:16-48
+69            android:value="0" />
+69-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:49-66
+70        <meta-data
+70-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:5-74
+71            android:name="unity.splash-enable"
+71-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:16-50
+72            android:value="True" />
+72-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:51-71
+73        <meta-data
+73-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:5-78
+74            android:name="unity.launch-fullscreen"
+74-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:16-54
+75            android:value="True" />
+75-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:55-75
+76        <meta-data
+76-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:5-84
+77            android:name="unity.allow-resizable-window"
+77-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:16-59
+78            android:value="False" />
+78-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:60-81
+79        <meta-data
+79-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:5-81
+80            android:name="notch.config"
+80-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:16-43
+81            android:value="portrait|landscape" />
+81-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:44-78
+82    </application>
+83
+84</manifest>

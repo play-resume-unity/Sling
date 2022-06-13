@@ -1,0 +1,21 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.applovin.mediation.unity.adapters.google" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="1"
+6-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\MaxMediationGoogle.androidlib\AndroidManifest.xml
+7        android:targetSdkVersion="28" />
+7-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\MaxMediationGoogle.androidlib\AndroidManifest.xml
+8
+9    <application>
+9-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\MaxMediationGoogle.androidlib\AndroidManifest.xml:3:3-5:17
+10        <meta-data
+10-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\MaxMediationGoogle.androidlib\AndroidManifest.xml:4:5-130
+11            android:name="com.google.android.gms.ads.APPLICATION_ID"
+11-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\MaxMediationGoogle.androidlib\AndroidManifest.xml:4:16-72
+12            android:value="ca-app-pub-1447736674902262~5182733205" />
+12-->D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\MaxMediationGoogle.androidlib\AndroidManifest.xml:4:73-127
+13    </application>
+14
+15</manifest>

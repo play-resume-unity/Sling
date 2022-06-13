@@ -1,0 +1,51 @@
+﻿#include "pch-c.h"
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+// 0x00000001 System.Void Microsoft.CodeAnalysis.EmbeddedAttribute::.ctor()
+extern void EmbeddedAttribute__ctor_m32464F005A899BBFD3A7ED0C42A8301E317034C2 (void);
+// 0x00000002 System.Void System.Runtime.CompilerServices.IsReadOnlyAttribute::.ctor()
+extern void IsReadOnlyAttribute__ctor_m4D550B87505994CE328D4DD1761EC8196DC96C31 (void);
+// 0x00000003 UnityEngine.EventType UnityEngine.Event::get_rawType()
+extern void Event_get_rawType_mD7CD874F3C8DFD4DFB6237E79A7C3A484B33CE56 (void);
+// 0x00000004 UnityEngine.Vector2 UnityEngine.Event::get_mousePosition()
+extern void Event_get_mousePosition_mD6D2DF45C75E6FADD415D27D0E93563DED37D9B9 (void);
+// 0x00000005 System.Void UnityEngine.Event::set_mousePosition(UnityEngine.Vector2)
+extern void Event_set_mousePosition_m221CDC5C9556DE91E82242A693D9E14FAC371F38 (void);
+// 0x00000006 UnityEngine.Vector2 UnityEngine.Event::get_delta()
+extern void Event_get_delta_m1BBF28E2FC379EDD3907DC987E6BD7E6521D69A0 (void);
+// 0x00000007 System.Void UnityEngine.Event::set_delta(UnityEngine.Vector2)
+extern void Event_set_delta_mA4F7805B9B53B36C7DAA31735CC9097D363B9F9A (void);
+// 0x00000008 UnityEngine.PointerType UnityEngine.Event::get_pointerType()
+extern void Event_get_pointerType_mFFB3FB3E83412151A66FEC136FA00EBDB563B94B (void);
+// 0x00000009 System.Int32 UnityEngine.Event::get_button()
+extern void Event_get_button_m57F81B5CCB26866E776D0EBD1250C708A3565C08 (void);
+// 0x0000000A UnityEngine.EventModifiers UnityEngine.Event::get_modifiers()
+extern void Event_get_modifiers_mD55E7CF06EB720434F0F174EA569B2A29792D39B (void);
+// 0x0000000B System.Void UnityEngine.Event::set_modifiers(UnityEngine.EventModifiers)
+extern void Event_set_modifiers_m879319643B5CD23F3223AB8E835C8ABCD3DA72FB (void);
+// 0x0000000C System.Single UnityEngine.Event::get_pressure()
+extern void Event_get_pressure_m3E43BF333499DFDCFF2A36258BBC290DDD40D963 (void);
+// 0x0000000D System.Int32 UnityEngine.Event::get_clickCount()
+extern void Event_get_clickCount_mEF418EB4A36318F07E5F3463E4E5E8A4C454DE7D (void);
+// 0x0000000E System.Char UnityEngine.Event::get_character()
+extern void Event_get_character_m8F7A92E90EF65B9379C01432B42D6BF818C32A61 (void);
+// 0x0000000F System.Void UnityEngine.Event::set_character(System.Char)
+extern void Event_set_character_mA159F1742FD9EA968F32556C5FE1A2401069BAF5 (void);
+// 0x00000010 UnityEngine.KeyCode UnityEngine.Event::get_keyCode()
+extern void Event_get_keyCode_mADBB236A741F96D86E4A536E15FFECFD4C367B64 (void);
+// 0x00000011 System.Void UnityEngine.Event::set_keyCode(UnityEngine.KeyCode)
+extern void Event_set_keyCode_m698D040F2EE0BE55B1B06A3FD865CC0A5D7B1168 (void);
+// 0x00000012 System.Int32 UnityEngine.Event::get_displayIndex()
+extern void Event_get_displayIndex_m7DBF1B18DD9B5E5B4EEA979FCA87351E3E5B16C3 (void);
+// 0x00000013 System.Void UnityEngine.Ev

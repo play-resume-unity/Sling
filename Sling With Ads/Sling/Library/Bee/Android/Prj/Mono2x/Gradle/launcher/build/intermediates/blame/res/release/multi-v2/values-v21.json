@@ -1,0 +1,123 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Git Repositories\\Sling\\Sling With Ads\\Sling\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v21\\values-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\70fcaad0395d855880ff6c0f0d8aec01\\jetified-androidx.core.core-1.6.0\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,173,237,304,368,484,610,736,864,1036",
+                        "endLines": "2,3,4,5,6,7,8,9,12,17",
+                        "endColumns": "117,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "168,232,299,363,479,605,731,859,1031,1383"
+                    },
+                    "to": {
+                        "startLines": "2,4,5,6,14,15,22,26,30,33",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,232,296,363,818,934,1391,1685,1980,2152",
+                        "endLines": "2,4,5,6,14,15,22,26,32,37",
+                        "endColumns": "117,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "168,291,358,422,929,1055,1512,1808,2147,2499"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\328f26b91a218702439889155ddd67b4\\jetified-androidx.media.media-1.3.1\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,5,8,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,223,386,554",
+                        "endLines": "4,7,10,13",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "218,381,549,716"
+                    },
+                    "to": {
+                        "startLines": "16,19,23,27",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "1060,1228,1517,1813",
+                        "endLines": "18,21,25,29",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "1223,1386,1680,1975"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\dd96a5b0508adc68d18fe6120fa257b9\\jetified-lunar-console\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "12",
+                        "endOffsets": "154"
+                    },
+                    "to": {
+                        "startLines": "52",
+                        "startColumns": "4",
+                        "startOffsets": "3630",
+                        "endLines": "53",
+                        "endColumns": "12",
+                        "endOffsets": "3729"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\bd0bf193be3073d8a73b58d3d30eb80d\\jetified-com.google.android.exoplayer.exoplayer-ui-2.15.1\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,114",
+                        "endLines": "2,7",
+                        "endColumns": "58,10",
+                        "endOffsets": "109,396"
+                    },
+                    "to": {
+                        "startLines": "3,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "173,531",
+                        "endLines": "3,13",
+                        "endColumns": "58,10",
+                        "endOffsets": "227,813"
+                    }
+                },
+                {
+                    "source": "D:\\Git Repositories\\Sling\\Sling With Ads\\Sling\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\src\\main\\res\\values-v21\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "0",
+                        "startOffsets": "53",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "153"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "427",
+                        "endLines": "8",
+                        "endColumns": "8",
+                        "endOffsets": "526"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-2\\files-2.1\\1cf4013be1a5517d2ebe280ff7a6bd85\\jetified-com.applovin.applovin-sdk-11.4.2\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,8,11",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,534,788",
+                        "endLines": "7,10,15",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "529,783,1176"
+                    },
+                    "to": {
+                        "startLines": "38,44,47",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "2504,2983,3237",
+                        "endLines": "43,46,51",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "2978,3232,3625"
+                    }
+                }
+            ]
+        }
+    ]
+}

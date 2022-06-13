@@ -1,0 +1,57 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\GooglePlayGamesManifest.androidlib\AndroidManifest.xml:4:1-26:12
+INJECTED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\GooglePlayGamesManifest.androidlib\AndroidManifest.xml:4:1-26:12
+INJECTED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\GooglePlayGamesManifest.androidlib\AndroidManifest.xml:4:1-26:12
+INJECTED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\GooglePlayGamesManifest.androidlib\AndroidManifest.xml:4:1-26:12
+INJECTED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\GooglePlayGamesManifest.androidlib\AndroidManifest.xml:4:1-26:12
+INJECTED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\GooglePlayGamesManifest.androidlib\AndroidManifest.xml:4:1-26:12
+INJECTED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\GooglePlayGamesManifest.androidlib\AndroidManifest.xml:4:1-26:12
+	package
+		ADDED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\GooglePlayGamesManifest.androidlib\AndroidManifest.xml:5:5-51
+		INJECTED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\GooglePlayGamesManifest.androidlib\AndroidManifest.xml
+		INJECTED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\GooglePlayGamesManifest.androidlib\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\GooglePlayGamesManifest.androidlib\AndroidManifest.xml:7:5-30
+		INJECTED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\GooglePlayGamesManifest.androidlib\AndroidManifest.xml
+		INJECTED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\GooglePlayGamesManifest.androidlib\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\GooglePlayGamesManifest.androidlib\AndroidManifest.xml:4:11-69
+	android:versionCode
+		ADDED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\GooglePlayGamesManifest.androidlib\AndroidManifest.xml:6:5-28
+		INJECTED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\GooglePlayGamesManifest.androidlib\AndroidManifest.xml
+		INJECTED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\GooglePlayGamesManifest.androidlib\AndroidManifest.xml
+application
+ADDED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\GooglePlayGamesManifest.androidlib\AndroidManifest.xml:11:5-25:19
+meta-data#com.google.android.gms.games.APP_ID
+ADDED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\GooglePlayGamesManifest.androidlib\AndroidManifest.xml:16:9-17:49
+	android:value
+		ADDED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\GooglePlayGamesManifest.androidlib\AndroidManifest.xml:17:13-46
+	android:name
+		ADDED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\GooglePlayGamesManifest.androidlib\AndroidManifest.xml:16:20-70
+meta-data#com.google.android.gms.games.unityVersion
+ADDED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\GooglePlayGamesManifest.androidlib\AndroidManifest.xml:20:9-21:44
+	android:value
+		ADDED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\GooglePlayGamesManifest.androidlib\AndroidManifest.xml:21:13-41
+	android:name
+		ADDED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\GooglePlayGamesManifest.androidlib\AndroidManifest.xml:20:20-76
+activity#com.google.games.bridge.NativeBridgeActivity
+ADDED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\GooglePlayGamesManifest.androidlib\AndroidManifest.xml:23:9-24:86
+	android:theme
+		ADDED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\GooglePlayGamesManifest.androidlib\AndroidManifest.xml:24:13-83
+	android:name
+		ADDED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\GooglePlayGamesManifest.androidlib\AndroidManifest.xml:23:19-78
+uses-sdk
+INJECTED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\GooglePlayGamesManifest.androidlib\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\GooglePlayGamesManifest.androidlib\AndroidManifest.xml
+INJECTED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\GooglePlayGamesManifest.androidlib\AndroidManifest.xml
+INJECTED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\GooglePlayGamesManifest.androidlib\AndroidManifest.xml
+INJECTED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\GooglePlayGamesManifest.androidlib\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\GooglePlayGamesManifest.androidlib\AndroidManifest.xml
+		ADDED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\GooglePlayGamesManifest.androidlib\AndroidManifest.xml
+		INJECTED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\GooglePlayGamesManifest.androidlib\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\GooglePlayGamesManifest.androidlib\AndroidManifest.xml
+		ADDED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\GooglePlayGamesManifest.androidlib\AndroidManifest.xml
+		INJECTED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\GooglePlayGamesManifest.androidlib\AndroidManifest.xml

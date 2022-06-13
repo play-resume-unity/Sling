@@ -1,0 +1,80 @@
+apply plugin: 'com.android.application'
+apply plugin: 'applovin-quality-service'
+
+applovin {
+    // NOTE: DO NOT CHANGE - this is NOT your AppLovin MAX SDK key - this is a derived key.
+    apiKey 'GrlTfaQkW7siO1PToLnHKkKIZ9NA4zS-8sdvsFBXKse3fvFV_BpohT0cDbWdZ7BfpcQPOAiqvfEFPBFwdIh7Sm'
+}
+
+dependencies {
+    implementation project(':unityLibrary')
+    }
+
+android {
+    compileSdkVersion 32
+    buildToolsVersion '30.0.2'
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    defaultConfig {
+        minSdkVersion 22
+        targetSdkVersion 32
+        applicationId 'com.PlayResume.Sling'
+        ndk {
+            abiFilters 'armeabi-v7a'
+        }
+        versionCode 5
+        versionName '0.5'
+    }
+
+    aaptOptions {
+        noCompress = ['.unity3d', '.ress', '.resource', '.obb', '.unityexp'] + unityStreamingAssets.tokenize(', ')
+        ignoreAssetsPattern = "!.svn:!.git:!.ds_store:!*.scc:.*:!CVS:!thumbs.db:!picasa.ini:!*~"
+    }
+
+    signingConfigs {
+        release {
+            storeFile file('D:/UnityKeystore/Sling.keystore')
+            storePassword 'PlayResume.Sling@6475'
+            keyAlias 'sling'
+            keyPassword 'PlayResume.Sling@6475'
+        }
+    }
+
+    lintOptions {
+        abortOnError false
+    }
+
+    buildTypes {
+        debug {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt')
+            signingConfig signingConfigs.release
+            jniDebuggable true
+        }
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt')
+            signingConfig signingConfigs.release
+        }
+    }
+
+    packagingOptions {
+        doNotStrip '*/armeabi-v7a/*.so'
+    }
+
+    bundle {
+        language {
+            enableSplit = false
+        }
+        density {
+            enableSplit = false
+        }
+        abi {
+            enableSplit = true
+        }
+    }
+}

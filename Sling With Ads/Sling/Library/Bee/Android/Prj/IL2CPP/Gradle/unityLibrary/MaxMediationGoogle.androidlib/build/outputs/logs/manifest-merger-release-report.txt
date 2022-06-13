@@ -1,0 +1,33 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\MaxMediationGoogle.androidlib\AndroidManifest.xml:2:1-6:12
+INJECTED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\MaxMediationGoogle.androidlib\AndroidManifest.xml:2:1-6:12
+INJECTED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\MaxMediationGoogle.androidlib\AndroidManifest.xml:2:1-6:12
+	package
+		ADDED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\MaxMediationGoogle.androidlib\AndroidManifest.xml:2:70-124
+		INJECTED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\MaxMediationGoogle.androidlib\AndroidManifest.xml
+		INJECTED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\MaxMediationGoogle.androidlib\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\MaxMediationGoogle.androidlib\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\MaxMediationGoogle.androidlib\AndroidManifest.xml:3:3-5:17
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\MaxMediationGoogle.androidlib\AndroidManifest.xml:4:5-130
+	android:value
+		ADDED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\MaxMediationGoogle.androidlib\AndroidManifest.xml:4:73-127
+	android:name
+		ADDED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\MaxMediationGoogle.androidlib\AndroidManifest.xml:4:16-72
+uses-sdk
+INJECTED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\MaxMediationGoogle.androidlib\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\MaxMediationGoogle.androidlib\AndroidManifest.xml
+INJECTED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\MaxMediationGoogle.androidlib\AndroidManifest.xml
+INJECTED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\MaxMediationGoogle.androidlib\AndroidManifest.xml
+INJECTED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\MaxMediationGoogle.androidlib\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\MaxMediationGoogle.androidlib\AndroidManifest.xml
+		ADDED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\MaxMediationGoogle.androidlib\AndroidManifest.xml
+		INJECTED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\MaxMediationGoogle.androidlib\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\MaxMediationGoogle.androidlib\AndroidManifest.xml
+		ADDED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\MaxMediationGoogle.androidlib\AndroidManifest.xml
+		INJECTED from D:\Git Repositories\Sling\Sling With Ads\Sling\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\MaxMediationGoogle.androidlib\AndroidManifest.xml
